@@ -1,0 +1,1 @@
+Para iniciar o jogo, é necessário ter o python instalado no computador, depois se deve abrir o arquivo main.py através do cmd e instalar as bibliotecas: pygame(que foi utilizada para o áudio do jogo) e windows-curses
