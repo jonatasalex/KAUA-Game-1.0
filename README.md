@@ -4,6 +4,6 @@ Para iniciar o jogo, é necessário ter o python instalado no computador, depois
 
 In English: 
 
-Game developed as a project for the Fundamentals of Programming discipline during my first period of the Computer Engineering course at UPE-University of Pernambuco.
+Game developed as a project for the Fundamentals of Programming discipline during my first semester of the Computer Engineering course at UPE-University of Pernambuco.
 
 To start the game, you must have python installed on your computer, then you must open the main.py file through the terminal and install the libraries: pygame (which was used for the game's audio) and windows-curses
